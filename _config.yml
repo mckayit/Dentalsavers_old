@@ -1,25 +1,25 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
-description: "A responsive Jekyll theme for dental clinics."
+title: DentalSavers
+description: "Gap Free Preventative Dentistry"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
-logo_url: svg/min/logo.svg
+logo_url: svg/min/logo.png
 
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: DentistSmile
-    hero_description: A responsive Jekyll theme for dental clinics.
+    hero_title: DentalSavers
+    hero_description: Gap Free Preventative Dentistry
 
 # Contact form
 api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: 932 50 540
-    emergency: 931 53 234
-    email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
+    phone: 07 5495 1888
+    emergency: 07 5495 1888
+    email: Reception@dentalsavers.com.au
+    address: 4/111 William Berry Drive, Morayfield QLD 4506
 
 # Opening hours
 monday_friday: 9:00 – 18:00
@@ -45,7 +45,7 @@ skype: skype:obaez_design?userinfo
 feed: yes
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: ©DentalSavers - All rights reserved
 
 # Build settings
 markdown: kramdown
