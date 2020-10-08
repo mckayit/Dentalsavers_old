@@ -7,7 +7,7 @@ logo_url: svg/min/logo.png
 
 # Hero
 hero: 
-    hero_img: hero.jpg
+    hero_img: heromain.jpg
     hero_title: DentalSavers
     hero_description: Gap Free Preventative Dentistry
 
@@ -33,15 +33,15 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
-    address_details: svg/min/logo.svg
+    address: 4/111 William Berry Drive, Morayfield QLD 4506
+    address_details: svg/min/logo.png
 
 # Social settings
 facebook: http://facebook.com
-twitter: http://twitter.com
-instagram: http://instagram.com
-youtube: http://youtube.com
-skype: skype:obaez_design?userinfo
+# twitter: http://twitter.com
+#instagram: http://instagram.com
+#youtube: http://youtube.com
+#skype: skype:obaez_design?userinfo
 feed: yes
 
 # Footer
